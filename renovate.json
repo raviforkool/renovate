@@ -18,7 +18,7 @@
         "repology"
       ],
       "packagePatterns": [
-        "^debian_stable/"
+        "^ubuntu_20_04/"
       ],
       "separateMajorMinor": false,
       "groupName": "debian packages",

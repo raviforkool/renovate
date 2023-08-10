@@ -16,13 +16,6 @@
     {
       "datasources": [
         "repology"
-      ],
-      "packagePatterns": [
-       "ubuntu_22"
-      ],
-      "separateMajorMinor": false,
-      "groupName": "ubuntu packages",
-      "groupSlug": "ubuntu"
-    }
+      ]
   ]
 }

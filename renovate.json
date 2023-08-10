@@ -11,5 +11,18 @@
       ],
       "versioningTemplate": "{{#if versioning}}{{{versioning}}}{{else}}semver{{/if}}"
     }
+  ],
+  "packageRules": [
+    {
+      "datasources": [
+        "repology"
+      ],
+      "packagePatterns": [
+        "debian_13"
+      ],
+      "separateMajorMinor": false,
+      "groupName": "debian packages",
+      "groupSlug": "debian"
+    }
   ]
 }

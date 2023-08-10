@@ -18,11 +18,11 @@
         "repology"
       ],
       "packagePatterns": [
-        "debian_13","ubuntu_22_04"
+       "ubuntu_22_04"
       ],
       "separateMajorMinor": false,
-      "groupName": "debian packages",
-      "groupSlug": "debian"
+      "groupName": "ubuntu packages",
+      "groupSlug": "ubuntu"
     }
   ]
 }

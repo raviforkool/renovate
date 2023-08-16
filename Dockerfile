@@ -16,7 +16,7 @@ ENV PYTHON="3.10"
 ENV PYTHON="3.11"
 
 # renovate: datasource=repology depName=ubuntu_22_04/golang versioning=loose
-ENV GO_VERSION="1.18.10" 
+ENV GO_VERSION="2:1.18~0ubuntu2" 
 
 
 # renovate: datasource=repology depName=ubuntu_20_04/openjdk versioning=loose
